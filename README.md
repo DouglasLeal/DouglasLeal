@@ -11,7 +11,9 @@
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasleal&layout=compact&langs_count=6&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+<!--
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=douglasleal&theme=gotham)
+-->
 
 <h2 align="center">Tecnologias</h2>
 <div align="center">
